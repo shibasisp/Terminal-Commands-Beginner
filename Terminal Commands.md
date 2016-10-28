@@ -1,6 +1,6 @@
 Some commands can be found in the `bin` directory.
 
-`ls` - list files<br>
+`ls` - list all the non-hidden files in the current directory you are present<br>
 `ls -a` - display hidden files and folders<br>
 `ls -R` - provide a tree listing of directory structure.<br>
 `ls -l` - displays extra details like size, user, date, permissions<br>
